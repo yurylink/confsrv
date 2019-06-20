@@ -1,2 +1,2 @@
-server.port=8080
-message=defaultInterno
+server.port: 8080
+message: defaultInterno

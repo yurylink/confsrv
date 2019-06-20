@@ -9,8 +9,3 @@ spring:
       server:
         native:
           search-locations: file:///home/wesley/workspace/confsrv/src/main/resources/config/smiamessage
-#  cloud:
-#    config:
-#      server:
-#        native:
-#          search-locations: file:

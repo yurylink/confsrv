@@ -1,3 +1,2 @@
-server.port=8081
-
-message=dev
+server.port: 8081
+message: dev
