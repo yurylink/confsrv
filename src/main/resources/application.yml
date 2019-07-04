@@ -1,12 +1,11 @@
 server:
   port: 8888
 spring:
-  profiles:
-    active: native
-
   cloud:
     config:
       server:
-        native:
-#          search-locations: file:///home/wesley/workspace/confsrv/src/main/resources/config/smiamessage
-          search-locations: file:///D:/Desenvolvimento/WsIntellij/confsrv/src/main/resources/config/smiamessage
+        git:
+          uri: https://github.com/yurylink/config-repo
+          search-paths: smiamessage
+          username: yurylink
+          password: {cipher}ce2e4075e8e0ee7ef150b71a75aed488b464533cccb1ab9831bfa590e941b059

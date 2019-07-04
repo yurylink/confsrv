@@ -1,0 +1,12 @@
+#server:
+#  port: 8888
+#spring:
+#  profiles:
+#    active: native
+#
+#  cloud:
+#    config:
+#      server:
+#        native:
+##          search-locations: file:///home/wesley/workspace/confsrv/src/main/resources/config/smiamessage
+#          search-locations: file:///D:/Desenvolvimento/WsIntellij/confsrv/src/main/resources/config/smiamessage
