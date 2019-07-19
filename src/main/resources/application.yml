@@ -8,4 +8,4 @@ spring:
           uri: https://github.com/yurylink/config-repo
           search-paths: smiamessage
           username: yurylink
-          password: {cipher}ce2e4075e8e0ee7ef150b71a75aed488b464533cccb1ab9831bfa590e941b059
+          password: '{cipher}ce2e4075e8e0ee7ef150b71a75aed488b464533cccb1ab9831bfa590e941b059'
